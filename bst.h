@@ -1,10 +1,10 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: <your class name here>
+ *				HTBLA-Leonding / Klasse: 2AHIF
  * ---------------------------------------------------------
- * Exercise Number: 0
+ * Exercise Number: 4
  * File:			bst.h
- * Author:			Peter Bauer
- * Due Date:		#due#
+ * Author:			Yimne Raid
+ * Due Date:		16.3.2019
  * ----------------------------------------------------------
  * Description:
  * <Add description>
